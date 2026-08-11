@@ -174,14 +174,14 @@
 
 ☕ **Java & Spring Boot**  
 ↓  
-🌐 **Backend & Full Stack Development**  
+🌐 **Backend Development**  
 ↓  
-🧠 **Advanced DSA & Problem Solving**  
+🧠 **Advanced DSA**  
 ↓  
-📐 **System Design & Scalable Architecture**  
+📐 **System Design**  
 ↓  
-🤖 **AI Integration & Intelligent Applications**
+🤖 **AI Integration**
 
 </p>
 
-> 💡 **Learning by building real-world projects and solving meaningful problems.**
+> 💡 **Learning by building, solving, and continuously improving.**
