@@ -82,21 +82,29 @@
 
 ## 🧠 DSA & Problem Solving
 
-> 💡 **Consistently improving my problem-solving skills by solving DSA problems in Java and focusing on efficient, optimized solutions.**
+> 💡 **Strengthening algorithmic thinking through consistent DSA practice in Java.**
 
-### 📚 Core Topics
+### 🚀 DSA Journey
 
-`Arrays` • `Strings` • `Linked Lists` • `Stacks & Queues`  
-`Recursion` • `Trees` • `Graphs` • `Dynamic Programming`
+<p align="center">
 
-### ⚡ Problem-Solving Workflow
+🟢 <b>Arrays</b> → 🟢 <b>Strings</b> → 🟡 <b>Linked Lists</b> → 🟡 <b>Stacks & Queues</b>  
+↓  
+🟡 <b>Recursion</b> → 🟠 <b>Trees</b> → 🟠 <b>Graphs</b> → 🔵 <b>Dynamic Programming</b>
 
-**Understand** → **Analyze** → **Implement** → **Optimize** → **Learn**
+</p>
 
-- 🧩 Focus on writing clean and maintainable solutions
-- ⏱️ Analyze **Time & Space Complexity**
-- 🚀 Explore optimized approaches
-- ☕ Implement solutions primarily in **Java**
+### ⚡ Problem-Solving Mindset
+
+<p align="center">
+
+🧩 Understand → 🔍 Analyze → 💻 Implement → ⏱️ Optimize → 📚 Learn
+
+</p>
+
+- ☕ **Java** — primary language for DSA practice
+- 📊 **Complexity** — focus on efficient Time & Space Complexity
+- 🚀 **Optimization** — compare approaches and improve solutions
 
 ## 🚀 What I Love Building
 
