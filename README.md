@@ -85,22 +85,21 @@
 
 ## 🧠 DSA & Problem Solving
 
-- 🟢 Practicing Data Structures & Algorithms
-- 💡 Improving problem-solving skills
-- 🔥 Solving coding problems regularly
+> 💡 **Consistently improving my problem-solving skills by solving DSA problems in Java and focusing on efficient, optimized solutions.**
 
-### 📚 Focus Areas
+### 📚 Core Topics
 
-- Arrays
-- Strings
-- Linked Lists
-- Stacks & Queues
-- Recursion
-- Trees
-- Graphs
-- Dynamic Programming
+`Arrays` • `Strings` • `Linked Lists` • `Stacks & Queues`  
+`Recursion` • `Trees` • `Graphs` • `Dynamic Programming`
 
----
+### ⚡ Problem-Solving Workflow
+
+**Understand** → **Analyze** → **Implement** → **Optimize** → **Learn**
+
+- 🧩 Focus on writing clean and maintainable solutions
+- ⏱️ Analyze **Time & Space Complexity**
+- 🚀 Explore optimized approaches
+- ☕ Implement solutions primarily in **Java**
 
 ## 🚀 What I Love Building
 
