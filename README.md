@@ -52,16 +52,13 @@
 
 ## 👩‍💻 About Me
 
-- 💻 Java Full Stack Developer
-- 🎓 B.Tech Computer Science & Engineering Student
-- 🧠 Passionate about DSA and problem solving
-- 🚀 Building real-world applications
-- 🤖 Exploring AI and intelligent applications
-- 🎨 Interested in UI/UX design
-- 📚 Learning DBMS, SQL, Operating Systems & Computer Networks
-- 🎯 Aspiring Software Engineer
-
----
+🎓 B.Tech CSE Student  
+☕ Java Full Stack Developer  
+🧠 DSA & Problem Solving  
+🚀 Building Real-World Applications  
+🤖 Exploring AI  
+🎨 UI/UX Enthusiast  
+🎯 Aspiring Software Engineer
 
 ## 🛠️ Tech Stack
 
@@ -165,15 +162,18 @@
 
 ## 🌱 Currently Learning
 
-```text
-Java
-  ↓
-Spring Boot
-  ↓
-Backend Development
-  ↓
-Advanced DSA
-  ↓
-System Design
-  ↓
-AI Integration
+<p align="center">
+
+☕ **Java & Spring Boot**  
+↓  
+🌐 **Backend & Full Stack Development**  
+↓  
+🧠 **Advanced DSA & Problem Solving**  
+↓  
+📐 **System Design & Scalable Architecture**  
+↓  
+🤖 **AI Integration & Intelligent Applications**
+
+</p>
+
+> 💡 **Learning by building real-world projects and solving meaningful problems.**
