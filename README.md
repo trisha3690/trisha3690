@@ -1,4 +1,6 @@
-<!-- ===================== BANNER ===================== -->
+<!-- ===================================================== -->
+<!--                       BANNER                          -->
+<!-- ===================================================== -->
 
 <p align="center">
   <img
@@ -8,16 +10,35 @@
   />
 </p>
 
+<!-- ===================================================== -->
+<!--                     INTRODUCTION                      -->
+<!-- ===================================================== -->
+
 <h1 align="center">
   Hi 👋, I'm Tanisha Chakraborty
 </h1>
 
 <h3 align="center">
-  Java Full Stack Developer • DSA • AI Enthusiast
+  ☕ Java Full Stack Developer • 🧠 DSA • 🤖 AI Enthusiast
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+Real-World+Applications;Solving+DSA+Problems;Exploring+AI;Designing+Better+User+Experiences&center=true&width=600&height=45&color=00BFFF&vCenter=true&size=22" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com/?lines=Building+Real-World+Applications;Solving+DSA+Problems;Exploring+AI;Designing+Better+User+Experiences&center=true&width=650&height=45&color=00BFFF&vCenter=true&size=22"
+    alt="Typing animation"
+  />
+</p>
+
+<p align="center">
+  <a href="https://github.com/trisha3690">
+    <img src="https://img.shields.io/badge/GitHub-trisha3690-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://linkedin.com/in/tanisha-chakraborty-15926033a">
+    <img src="https://img.shields.io/badge/LinkedIn-Tanisha%20Chakraborty-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:chakrabortytanisha79@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail" />
+  </a>
 </p>
 
 ---
