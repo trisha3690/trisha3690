@@ -131,41 +131,42 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 What I Love Building
 
-### 💊 Dawa Dost
+### 💻 Full Stack Applications
 
-Medicine management and e-commerce platform focused on a clean user experience.
+Building practical web applications using modern frontend and backend technologies.
 
-**Technologies:** React • JavaScript • Tailwind CSS • Backend • Database
-
----
-
-### 💬 TalkMate
-
-Communication-focused web application with interactive user experiences.
-
-**Technologies:** React • JavaScript • Node.js
+**Focus:**
+- Java & Spring Boot
+- React & JavaScript
+- REST APIs
+- Database-driven applications
+- Authentication & backend systems
 
 ---
 
-### 🖼️ Image Enhancer
+### 🤖 AI-Powered Applications
 
-Web application focused on image enhancement with a simple and user-friendly interface.
+Exploring how AI can be integrated into real-world applications to create smarter and more useful solutions.
 
-**Technologies:** JavaScript • HTML • CSS
+**Focus:**
+- AI integration
+- Intelligent features
+- Automation
+- AI-powered user experiences
 
 ---
 
-## 🤖 AI & UI/UX
+### 🎨 UI/UX Experiences
 
-### 🤖 AI
+Interested in creating clean, intuitive and user-friendly interfaces.
 
-Exploring AI integration to build intelligent and useful real-world applications.
-
-### 🎨 UI/UX
-
-Interested in creating clean, intuitive and user-friendly digital experiences.
+**Focus:**
+- UI design
+- UX principles
+- Responsive interfaces
+- Modern web experiences
 
 ---
 
