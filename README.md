@@ -103,13 +103,14 @@
 
 ## 🚀 What I Love Building
 
-| 💻 Full Stack | 🤖 AI | 🎨 UI/UX |
+| 💻 Full Stack Development | 🤖 AI & Intelligent Systems | 🎨 UI/UX Design |
 |:---:|:---:|:---:|
-| Scalable web applications | AI-powered applications | Clean interfaces |
-| REST APIs | Intelligent features | User-friendly designs |
-| Backend systems | AI integration | Modern web experiences |
+| Java & Spring Boot | AI Integration | Clean Interfaces |
+| React & JavaScript | Intelligent Features | User Experience |
+| REST APIs | Automation | Responsive Design |
+| MySQL & MongoDB | AI-powered Applications | Modern Web Design |
 
----
+> 💡 **I enjoy turning ideas into practical, user-friendly and scalable applications.**
 
 ## 📊 GitHub Stats
 
@@ -135,54 +136,20 @@
 
 ## 🔥 Current Focus
 
-- ☕ Java & Spring Boot
-- 🧠 Advanced DSA
-- 🏗️ Full Stack Development
-- 🤖 AI Integration
-- 🎨 UI/UX Design
-- 📐 System Design
-- 🗄️ DBMS & SQL
+<p align="center">
 
----
+☕ **Java & Spring Boot** &nbsp; • &nbsp;
+🧠 **Advanced DSA** &nbsp; • &nbsp;
+🌐 **Full Stack Development**
 
-## 🚀 What I Love Building
+🤖 **AI Integration** &nbsp; • &nbsp;
+🎨 **UI/UX Design** &nbsp; • &nbsp;
+📐 **System Design**
 
-### 💻 Full Stack Applications
+</p>
 
-Building practical web applications using modern frontend and backend technologies.
+> 🚀 **Building real-world applications while strengthening problem-solving and software engineering skills.**
 
-**Focus:**
-- Java & Spring Boot
-- React & JavaScript
-- REST APIs
-- Database-driven applications
-- Authentication & backend systems
-
----
-
-### 🤖 AI-Powered Applications
-
-Exploring how AI can be integrated into real-world applications to create smarter and more useful solutions.
-
-**Focus:**
-- AI integration
-- Intelligent features
-- Automation
-- AI-powered user experiences
-
----
-
-### 🎨 UI/UX Experiences
-
-Interested in creating clean, intuitive and user-friendly interfaces.
-
-**Focus:**
-- UI design
-- UX principles
-- Responsive interfaces
-- Modern web experiences
-
----
 
 ## 📚 Core Computer Science
 
