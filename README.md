@@ -1,6 +1,4 @@
-<!-- ===================================================== -->
-<!--                       BANNER                          -->
-<!-- ===================================================== -->
+<!-- BANNER -->
 
 <p align="center">
   <img
@@ -10,13 +8,7 @@
   />
 </p>
 
-<!-- ===================================================== -->
-<!--                     INTRODUCTION                      -->
-<!-- ===================================================== -->
-
-<h1 align="center">
-  Hi 👋, I'm Tanisha Chakraborty
-</h1>
+<h1 align="center">Hi 👋, I'm Tanisha Chakraborty</h1>
 
 <h3 align="center">
   ☕ Java Full Stack Developer • 🧠 DSA • 🤖 AI Enthusiast
@@ -51,7 +43,7 @@
 - 🚀 Building real-world applications
 - 🤖 Exploring AI and intelligent applications
 - 🎨 Interested in UI/UX design
-- 📚 Strong interest in Computer Science fundamentals
+- 📚 Learning DBMS, SQL, Operating Systems & Computer Networks
 - 🎯 Aspiring Software Engineer
 
 ---
@@ -81,16 +73,17 @@
 - 🟢 Practicing Data Structures & Algorithms
 - 💡 Improving problem-solving skills
 - 🔥 Solving coding problems regularly
-- 📚 Focus Areas:
 
-  - Arrays
-  - Strings
-  - Linked Lists
-  - Stacks & Queues
-  - Recursion
-  - Trees
-  - Graphs
-  - Dynamic Programming
+### 📚 Focus Areas
+
+- Arrays
+- Strings
+- Linked Lists
+- Stacks & Queues
+- Recursion
+- Trees
+- Graphs
+- Dynamic Programming
 
 ---
 
@@ -101,8 +94,6 @@
 | Scalable web applications | AI-powered applications | Clean interfaces |
 | REST APIs | Intelligent features | User-friendly designs |
 | Backend systems | AI integration | Modern web experiences |
-
----
 
 ---
 
@@ -126,6 +117,8 @@
   />
 </p>
 
+---
+
 ## 🔥 Current Focus
 
 - ☕ Java & Spring Boot
@@ -138,38 +131,52 @@
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-### 🛒 Full Stack Web Applications
+### 💊 Dawa Dost
 
-Building practical applications with modern frontend and backend technologies.
+Medicine management and e-commerce platform focused on a clean user experience.
 
-**Technologies:** Java • Spring Boot • React • JavaScript • Node.js • MongoDB • MySQL
+**Technologies:** React • JavaScript • Tailwind CSS • Backend • Database
 
-### 🤖 AI-Powered Applications
+---
 
-Exploring ways to integrate AI into useful real-world applications.
+### 💬 TalkMate
 
-### 🎨 UI/UX Projects
+Communication-focused web application with interactive user experiences.
 
-Designing clean, intuitive and user-friendly interfaces.
+**Technologies:** React • JavaScript • Node.js
+
+---
+
+### 🖼️ Image Enhancer
+
+Web application focused on image enhancement with a simple and user-friendly interface.
+
+**Technologies:** JavaScript • HTML • CSS
+
+---
+
+## 🤖 AI & UI/UX
+
+### 🤖 AI
+
+Exploring AI integration to build intelligent and useful real-world applications.
+
+### 🎨 UI/UX
+
+Interested in creating clean, intuitive and user-friendly digital experiences.
 
 ---
 
 ## 📚 Core Computer Science
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-1F6FEB?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/DBMS-FF8C00?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/Operating%20Systems-2EA44F?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/Computer%20Networks-8957E5?style=for-the-badge" />
-
+  <img src="https://img.shields.io/badge/DSA-Data%20Structures%20%26%20Algorithms-1F6FEB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DBMS-Database%20Management-FF8C00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SQL-Database-00758F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Operating%20Systems-2EA44F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Computer%20Networks-8957E5?style=for-the-badge" />
 </p>
 
 ---
