@@ -11,7 +11,7 @@
 <h1 align="center">Hi 👋, I'm Tanisha Chakraborty</h1>
 
 <h3 align="center">
-  ☕ Java Full Stack Developer • 🧠 DSA • 🤖 AI Enthusiast
+  ☕ Java Full Stack Developer &nbsp;•&nbsp; 🧠 DSA Enthusiast &nbsp;•&nbsp; 🤖 AI Explorer &nbsp;•&nbsp; 📐 System Designer
 </h3>
 
 <p align="center">
