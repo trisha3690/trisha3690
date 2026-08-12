@@ -16,7 +16,7 @@
   ☕ Java Full Stack Developer &nbsp;•&nbsp;
   🧠 DSA Enthusiast &nbsp;•&nbsp;
   🤖 AI Explorer &nbsp;•&nbsp;
-  📐 System Design
+  📐 System Designer
 </h3>
 
 <p align="center">
