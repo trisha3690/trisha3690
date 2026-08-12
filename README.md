@@ -58,9 +58,10 @@
 ☕ Java Full Stack Developer  
 🧠 DSA & Problem Solving  
 🚀 Building Real-World Applications  
-🤖 Exploring AI  
+🤖 Exploring AI & Intelligent Systems  
 🎨 UI/UX Enthusiast  
-🎯 Aspiring Software Engineer
+🎯 Aspiring Software Engineer  
+💡 Turning ideas into clean, practical and scalable solutions.
 
 <br clear="right"/>
 
