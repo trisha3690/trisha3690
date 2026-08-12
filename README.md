@@ -165,7 +165,7 @@
 
 ## 🌱 Currently Learning
 
-<img align="right" src="./learning.png" width="360" alt="Currently Learning"/>
+<img align="right" src="./learning.png" width="315" alt="Currently Learning"/>
 
 ☕ **Java & Spring Boot**  
 ⬇️  
