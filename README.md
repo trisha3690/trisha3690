@@ -165,18 +165,18 @@
 
 ## 🌱 Currently Learning
 
-<p align="center">
+<img align="right" src="./learning.png" width="360" alt="Currently Learning"/>
 
 ☕ **Java & Spring Boot**  
-↓  
+⬇️  
 🌐 **Backend Development**  
-↓  
+⬇️  
 🧠 **Advanced DSA**  
-↓  
+⬇️  
 📐 **System Design**  
-↓  
+⬇️  
 🤖 **AI Integration**
 
-</p>
-
 > 💡 **Learning by building, solving, and continuously improving.**
+
+<br clear="right"/>
