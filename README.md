@@ -52,6 +52,8 @@
 
 ## 👩‍💻 About Me
 
+<img align="right" src="./coding.png" width="280" alt="Coding"/>
+
 🎓 B.Tech CSE Student  
 ☕ Java Full Stack Developer  
 🧠 DSA & Problem Solving  
@@ -59,6 +61,8 @@
 🤖 Exploring AI  
 🎨 UI/UX Enthusiast  
 🎯 Aspiring Software Engineer
+
+<br clear="right"/>
 
 ## 🛠️ Tech Stack
 
