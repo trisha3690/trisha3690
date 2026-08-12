@@ -21,7 +21,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com/?lines=Building+Real-World+Applications;Solving+Problems+with+Java+%26+DSA;Exploring+AI+%26+Intelligent+Systems;Designing+Scalable+Software+Solutions&center=true&width=700&height=45&color=00BFFF&vCenter=true&size=22"
+    src="https://readme-typing-svg.herokuapp.com/?lines=Building+Full+Stack+Applications;Solving+Problems+with+DSA;Exploring+AI+%26+Intelligent+Systems;Learning+System+Design+%26+Scalable+Architecture;Developing+RESTful+APIs+%26+Backend+Systems;Working+with+Databases+%26+Cloud+Technologies&center=true&width=700&height=45&color=00BFFF&vCenter=true&size=22"
     alt="Typing animation"
   />
 </p>
