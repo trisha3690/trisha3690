@@ -68,17 +68,18 @@
   <img src="https://skillicons.dev/icons?i=java,spring,js,react,nodejs,mongodb,mysql,git,html,css,tailwind,postman" />
 </p>
 
-### 🗄️ Core Computer Science
+### 🧠 Core Computer Science
 
 <p align="center">
-  <img src="https://img.shields.io/badge/DSA-Problem%20Solving-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DBMS-Database%20Management-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SQL-Database-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OS-Operating%20Systems-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CN-Computer%20Networks-purple?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/DBMS-Database%20Systems-FF8C00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SQL-Queries%20%26%20Data-00758F?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OS-System%20Fundamentals-2EA44F?style=for-the-badge" />
+<img src="https://img.shields.io/badge/CN-Networking-8957E5?style=for-the-badge" />
+
 </p>
 
----
+> 💡 **Building strong CS fundamentals alongside development and problem solving.**
 
 ## 🧠 DSA & Problem Solving
 
