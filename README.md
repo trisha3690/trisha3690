@@ -78,7 +78,7 @@
   <img src="https://skillicons.dev/icons?i=java,spring,js,react,nodejs,mongodb,mysql,git,html,css,tailwind,postman" />
 </p>
 
-### 🧠 Core Computer Science
+### 📚 Core Computer Science
 
 <p align="center">
 
@@ -155,17 +155,6 @@
 </p>
 
 > 🚀 **Building real-world applications while strengthening problem-solving and software engineering skills.**
-
-
-## 📚 Core Computer Science
-
-<p align="center">
-  <img src="https://img.shields.io/badge/DSA-Data%20Structures%20%26%20Algorithms-1F6FEB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DBMS-Database%20Management-FF8C00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SQL-Database-00758F?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Operating%20Systems-2EA44F?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Computer%20Networks-8957E5?style=for-the-badge" />
-</p>
 
 
 ## 🌱 Currently Learning
