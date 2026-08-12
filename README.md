@@ -57,7 +57,7 @@
 
 ## 👩‍💻 About Me
 
-<img align="right" src="./coding.png" width="275" alt="Coding"/>
+<img align="right" src="./coding.png" width="295" alt="Coding"/>
 
 🎓 B.Tech CSE Student  
 ☕ Java Full Stack Developer  
@@ -144,33 +144,35 @@
 
 <p align="center">
 
-☕ **Java & Spring Boot** &nbsp; • &nbsp;
-🧠 **Advanced DSA** &nbsp; • &nbsp;
-🌐 **Full Stack Development**
+🚀 **Building & Deploying Projects** &nbsp; • &nbsp;
+🧩 **Solving Real-World Problems** &nbsp; • &nbsp;
+💻 **Writing Production-Ready Code**
 
-🤖 **AI Integration** &nbsp; • &nbsp;
-🎨 **UI/UX Design** &nbsp; • &nbsp;
-📐 **System Design**
+🤝 **Open Source & Collaboration** &nbsp; • &nbsp;
+📈 **Improving Development Practices** &nbsp; • &nbsp;
+🎯 **Preparing for Software Engineering Roles**
 
 </p>
 
-> 🚀 **Building real-world applications while strengthening problem-solving and software engineering skills.**
+> 🚀 **Focused on turning ideas into reliable, useful and impactful software.**
 
 
 ## 🌱 Currently Learning
 
-<img align="right" src="./learning.png" width="300" alt="Currently Learning"/>
+<img align="right" src="./learning.png" width="350" alt="Currently Learning"/>
 
-☕ **Java & Spring Boot**  
+🔍 **Advanced Problem-Solving Techniques**  
 ⬇️  
-🌐 **Backend Development**  
+🏛️ **Software Architecture & Design Patterns**  
 ⬇️  
-🧠 **Advanced DSA**  
+🗄️ **SQL & Database Design**  
 ⬇️  
-📐 **System Design**  
+⚡ **Performance & Code Optimization**  
 ⬇️  
-🤖 **AI Integration**
+🔐 **Secure & Reliable Application Development**  
+⬇️  
+☁️ **Deployment & Cloud Concepts**
 
-> 💡 **Learning by building, solving, and continuously improving.**
+> 💡 **Exploring how to build software that is scalable, reliable, and production-ready.**
 
 <br clear="right"/>
