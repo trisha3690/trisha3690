@@ -8,15 +8,20 @@
   />
 </p>
 
-<h1 align="center">Hi 👋, I'm Tanisha Chakraborty</h1>
+<h1 align="center">
+  Hi 👋, I'm Tanisha Chakraborty
+</h1>
 
 <h3 align="center">
-  ☕ Java Full Stack Developer &nbsp;•&nbsp; 🧠 DSA Enthusiast &nbsp;•&nbsp; 🤖 AI Explorer &nbsp;•&nbsp; 📐 System Designer
+  ☕ Java Full Stack Developer &nbsp;•&nbsp;
+  🧠 DSA Enthusiast &nbsp;•&nbsp;
+  🤖 AI Explorer &nbsp;•&nbsp;
+  📐 System Design
 </h3>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com/?lines=Building+Real-World+Applications;Solving+DSA+Problems;Exploring+AI;Designing+Better+User+Experiences&center=true&width=650&height=45&color=00BFFF&vCenter=true&size=22"
+    src="https://readme-typing-svg.herokuapp.com/?lines=Building+Real-World+Applications;Solving+Problems+with+Java+%26+DSA;Exploring+AI+%26+Intelligent+Systems;Designing+Scalable+Software+Solutions&center=true&width=700&height=45&color=00BFFF&vCenter=true&size=22"
     alt="Typing animation"
   />
 </p>
