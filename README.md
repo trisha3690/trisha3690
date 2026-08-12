@@ -127,11 +127,12 @@
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=trisha3690&theme=tokyonight&hide_border=true"
+    src="./profile/streak.svg"
     width="60%"
-    alt="GitHub Streak"
+    alt="GitHub Streak Stats"
   />
 </p>
+
 
 
 ## 🔥 Current Focus
