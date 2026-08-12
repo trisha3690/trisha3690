@@ -52,7 +52,7 @@
 
 ## 👩‍💻 About Me
 
-<img align="right" src="./coding.png" width="270" alt="Coding"/>
+<img align="right" src="./coding.png" width="275" alt="Coding"/>
 
 🎓 B.Tech CSE Student  
 ☕ Java Full Stack Developer  
