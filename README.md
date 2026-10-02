@@ -9,7 +9,7 @@
 </p>
 
 <h1 align="center">
-  Hi 👋, I am Tanisha Chakraborty
+  Hi 👋 I'm Tanisha Chakraborty
 </h1>
 
 <h3 align="center">
