@@ -128,15 +128,17 @@
 
 > 💡 **I enjoy turning ideas into practical, user-friendly and scalable applications.**
 
+
 ## 📊 GitHub Stats
 
 <p align="center">
   <img
-    src="./profile/streak.svg"
+    src="https://streak-stats.demolab.com/?user=trisha3690&theme=github-dark-blue&hide_border=true&border_radius=10"
     width="60%"
-    alt="GitHub Streak Stats"
+    alt="GitHub Contribution and Streak Stats"
   />
 </p>
+
 
 
 
