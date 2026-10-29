@@ -133,9 +133,9 @@
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=trisha3690&theme=github-dark-blue&hide_border=true&border_radius=10"
+    src="./profile/streak.svg"
     width="60%"
-    alt="GitHub Contribution and Streak Stats"
+    alt="GitHub Streak Stats"
   />
 </p>
 
