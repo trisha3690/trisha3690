@@ -133,9 +133,9 @@
 
 <p align="center">
   <img
-    src="./profile/streak.svg"
-    width="60%"
-    alt="GitHub Streak Stats"
+    src="https://github-readme-streak-stats.herokuapp.com?user=trisha3690&theme=tokyonight&hide_border=true"
+    width="80%"
+    alt="GitHub Daily Contribution Streak"
   />
 </p>
 
